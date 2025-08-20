@@ -24,7 +24,10 @@ Grandes telas: acima de 1200px
     div#formulario {
         float: right;
         width: 70%;
+    }
 
+    div#formulario p {
+        font-size: 1em;
     }
 }
 
@@ -36,13 +39,20 @@ Grandes telas: acima de 1200px
         width: 950px;
     }
     div#imagem {
-        float: left;
+        float: right;
         width: 50%;
         height: 100% !important; 
     }
     div#formulario {
-        float: right;
+        float: left;
         width: 50%;
+    }
 
+    div#formulario h1 {
+        font-size: 2em;
+    }
+
+    div#formulario p {
+        font-size: 1.2em;
     }
 }
